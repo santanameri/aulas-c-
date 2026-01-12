@@ -16,7 +16,7 @@
                 
                 if (numeroDigitado != 0)
                 {
-                    Console.WriteLine("Você errou! Tente novamente.");
+                    Console.WriteLine("Você errou! Tente novamente até acertar.");
                 }
             }
             else
